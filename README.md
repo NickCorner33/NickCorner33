@@ -1,8 +1,8 @@
 <div id="" align="center">
-  <img src="" width="100%"/>
+  <img src="https://github.com/NickCorner33/NickCorner33/blob/main/assets/github_banner.png?raw=true" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Nick Corner</h1>
-<h3 align="center">A Web Producer/HTML Email Developer from Springfield, IL</h3>
+<h3 align="center">A Web Developer from Springfield, IL</h3>
 <h4 align="center">Hi my name is Nick Corner and I'm a Web Developer from Illinois. I've always had a passion for learning new skills and challenging myself. I served 6 years in the United States Navy, and afterwards began my journey learning how to code. </h4>
 
 <hr>
