@@ -127,9 +127,9 @@
 <h2 align="center">Contact Me</h2>
 <p align="center">
 	&nbsp&nbsp&nbsp
-	<a href="https://twitter.com/https://twitter.com/ItsJustNickC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+	<a href="https:/x.com/ItsJustNickC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 <a href="https://www.linkedin.com/in/nicholas-corner/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://www.instagram.com/https://instagram.com/nickcorner3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https:/instagram.com/nickcorner3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 </p>
 
 <hr>
